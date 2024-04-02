@@ -1,0 +1,91 @@
+Welcome to AWESH Bank !!
+Please enter four digit pin :1254
+wrong pin number 
+you have 2 chances left
+Would you like to exit ?[Yes/No]
+NO
+Please enter four digit pin :2222
+wrong pin number 
+you have 1 chances left
+Would you like to exit ?[Yes/No]
+NO
+Please enter four digit pin :1256
+Select Operation to be perform :-
+B : balance
+D : deposit
+W : withdraw
+H : transaction History
+T : Transfer
+B
+your total balace is Rs.50000 
+Would you like to exit ?[Yes/No]
+No
+Please enter four digit pin :1256
+Select Operation to be perform :-
+B : balance
+D : deposit
+W : withdraw
+H : transaction History
+T : Transfer
+D
+How much do you want to deposit Rs.15000
+you have deposit Rs.15000
+your total balance is Rs.65000
+Would you like to exit ?[Yes/No]
+No
+Please enter four digit pin :1256
+Select Operation to be perform :-
+B : balance
+D : deposit
+W : withdraw
+H : transaction History
+T : Transfer
+W
+Enter the amount you want to withdrawn Rs.500
+you have widhraw Rs.500
+your total balance is Rs.49500
+Would you like to exit ?[Yes/No]
+No
+Please enter four digit pin :1256
+Select Operation to be perform :-
+B : balance
+D : deposit
+W : withdraw
+H : transaction History
+T : Transfer
+T
+Enter recipient account number: 123456
+Enter transfer amount Rs.2000
+Would you like to exit ?[Yes/No]
+No
+Please enter four digit pin :1256
+Select Operation to be perform :-
+B : balance
+D : deposit
+W : withdraw
+H : transaction History
+T : Transfer
+D
+How much do you want to deposit Rs.500
+you have deposit Rs.500
+your total balance is Rs.48500
+Would you like to exit ?[Yes/No]
+No
+Please enter four digit pin :1256
+Select Operation to be perform :-
+B : balance
+D : deposit
+W : withdraw
+H : transaction History
+T : Transfer
+H
+Transaction History:
+deposit: Rs.15000, Balance: Rs.65000
+withdrawal: Rs.500, Balance: Rs.49500
+transfer: Rs.2000, Balance: Rs.48000
+deposit: Rs.500, Balance: Rs.48500
+Would you like to exit ?[Yes/No]
+Yes
+Thankyou for using AWESH Bank !!!
+
+Process finished with exit code 0
